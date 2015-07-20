@@ -47,7 +47,7 @@ s.source_files = 'cUPYun/*.{h,m,c}'
 
   # s.framework  = "SomeFramework"
   #s.frameworks = "Foundation", "UIKit"
-  #s.dependency     'yajl-objc', '~> 0.2.27'
+  s.dependency     'iOScURL'
 
 
   s.requires_arc = false
